@@ -6,3 +6,6 @@
  - `pull <WHERE> <WHAT>` : pulls (updates) the local repo with contents in the remote (where) using information in the specifified branch (what)
  - `log` : shows the log
     - `log --oneline`: shows the log in condensed (concise) format
+    - this may open a terminal program called `less` that lets you scroll
+    - use `q` to escape out of `less`
+ - 
