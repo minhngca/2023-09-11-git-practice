@@ -4,3 +4,5 @@
  - `commit -m "MESSAGE"` : commit with a messag everything in the staging area
  - `push <WHERE> <WHAT>` : pushes the history / commits to the remote (where) using the commits from specified branch (what)
  - `pull <WHERE> <WHAT>` : pulls (updates) the local repo with contents in the remote (where) using information in the specifified branch (what)
+ - `log` : shows the log
+    - `log --oneline`: shows the log in condensed (concise) format
