@@ -1,5 +1,6 @@
 
-# 2023-09-11-git-practice
+# DSCI 521: Lecture 3
+
  - `add <FILENAME>` : adding <FILENAME> to the staging area
  - `commit -m "MESSAGE"` : commit with a messag everything in the staging area
  - `push <WHERE> <WHAT>` : pushes the history / commits to the remote (where) using the commits from specified branch (what)
@@ -11,3 +12,4 @@
  - `diff` : shows the "differences" betwwen your changes and the last known git state
    - `diff -staged ` : shows you the diff of the files in the staging area
  - `resote --staged <FILE>` : usstage added file from staging area
+ - `revert <SHA1>` : undo the changes in commit in <SHA1>
