@@ -10,7 +10,4 @@
     - use `q` to escape out of `less`
  - `diff` : shows the "differences" betwwen your changes and the last known git state
    - `diff -staged ` : shows you the diff of the files in the staging area
- - `resote --staged <FILE>` : ustage added file from staging area
-
- here's a change I don't mean to happn.
- Or is a  mistake
+ - `resote --staged <FILE>` : usstage added file from staging area
