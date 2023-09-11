@@ -8,4 +8,6 @@
     - `log --oneline`: shows the log in condensed (concise) format
     - this may open a terminal program called `less` that lets you scroll
     - use `q` to escape out of `less`
- - 
+ - `diff` : shows the "differences" betwwen your changes and the last known git state
+   - `diff -staged ` : shows you the diff of the files in the staging area
+ - `resote --staged <FILE>` : usstage added file from staging area
