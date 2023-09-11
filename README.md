@@ -1,6 +1,6 @@
 
-# 2023-09-11: Git Practice
-Stuff from MDS 521 lecture
+# 2023-09-11: Git History Practice
+
 
  - `add <FILENAME>` : adding <FILENAME> to the staging area
  - `commit -m "MESSAGE"` : commit with a messag everything in the staging area
@@ -13,3 +13,5 @@ Stuff from MDS 521 lecture
  - `diff` : shows the "differences" betwwen your changes and the last known git state
    - `diff -staged ` : shows you the diff of the files in the staging area
  - `resote --staged <FILE>` : usstage added file from staging area
+ - `revert <SHA1>` : undo the changes in commit in <SHA1>
+ - to fix conflicts you need to manually edit the file
