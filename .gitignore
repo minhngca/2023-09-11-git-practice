@@ -1,0 +1,6 @@
+output.csv
+*.csv
+*.pdf
+*.html
+
+.DS_Store
